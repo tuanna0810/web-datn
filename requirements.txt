@@ -1,0 +1,7 @@
+torch == 1.11.0
+transformers == 4.18.0
+tensorflow == 2.9.1
+fastapi == 0.78.0
+# argparse == 1.6.3
+
+
